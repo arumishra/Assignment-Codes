@@ -1,2 +1,2 @@
 # Assignment-Codes
-All codes related to assignment
+All codes related to complex networks assignments
